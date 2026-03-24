@@ -1,4 +1,4 @@
-# ChatHub
+# M2Talk
 
 Projeto da disciplina de Sistemas Distribuidos.
 
@@ -7,7 +7,7 @@ Projeto da disciplina de Sistemas Distribuidos.
 
 ## Sobre a aplicacao
 
-O ChatHub e uma aplicacao de chat em tempo real com suporte a:
+O M2Talk e uma aplicacao de chat em tempo real com suporte a:
 
 - Conversas privadas
 - Conversas em grupo
